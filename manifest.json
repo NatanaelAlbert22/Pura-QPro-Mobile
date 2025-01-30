@@ -1,0 +1,20 @@
+{
+  "name": "Pura Mobile QPro",
+  "short_name": "MQPro",
+  "start_url": "Login.aspx",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "Icon/pura192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Icon/pura512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
