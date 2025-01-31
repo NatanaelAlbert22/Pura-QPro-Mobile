@@ -19,7 +19,7 @@ namespace Pura_Gaji_Viewer.ReportTemplates
                 case "(Adidas-Ursa) - Detail - Lembur":
                     return new Detail_Lembur();
                 default:
-                   throw new ArgumentException("Invalid report name");
+                    return null;
             }
         }
     }
